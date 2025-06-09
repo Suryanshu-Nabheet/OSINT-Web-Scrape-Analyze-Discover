@@ -35,7 +35,7 @@ The project provides two implementation options: Python and TypeScript. You can 
 
 1. Clone the repository (if you haven't already):
    ```bash
-   git clone https://github.com/yourusername/web-scraper.git
+   git clone https://github.com/Suryanshu-Nabheet/OSINT-Web-Scrape-Analyze-Discover.git
    ```
 
 2. Navigate to the Python scraper directory:
